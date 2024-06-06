@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<!--    android:theme="@style/PopupMenuStyle"-->
+    <item
+        android:id="@+id/to_go"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/foreign"
+        android:title="@string/goToProject" />
+    <item
+        android:id="@+id/edit_project_pop_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/edit_square"
+        android:title="@string/changeProject" />
+    <item
+        android:id="@+id/delete_project_pop_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/trash_bin_pop_up"
+        android:title="@string/deleteProject" />
+
+</menu>
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:orientation="horizontal"-->
+<!--    android:gravity="center_vertical"-->
+<!--    android:paddingStart="16dp"-->
+<!--    android:paddingEnd="16dp"-->
+<!--    android:paddingTop="8dp"-->
+<!--    android:paddingBottom="8dp">-->
+
+<!--    <item-->
+<!--            android:id="@+id/to_go"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:icon="@drawable/foreign"-->
+<!--            android:title="Перейти к проекту" />-->
+<!--        <item-->
+<!--            android:id="@+id/edit_project_pop_up"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:icon="@drawable/edit_square"-->
+<!--            android:title="Редактировать"/>-->
+<!--        <item-->
+<!--            android:id="@+id/delete_project_pop_up"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:icon="@drawable/trash_bin_pop_up"-->
+<!--            android:title="Удалить проект" />-->
+<!--</LinearLayout>-->

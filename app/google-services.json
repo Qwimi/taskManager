@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223714053600",
+    "project_id": "kanban-app-1c745",
+    "storage_bucket": "kanban-app-1c745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223714053600:android:3dc4d024307df109666f85",
+        "android_client_info": {
+          "package_name": "com.example.taskfocus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-VPgQmjV3bN0JdlEPAhu1WyQe6qJZBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+<resources>
+        <string name="app_name">The Planner</string>
+
+    <string name="confirmError">Passwords don\'t match</string>
+    <string name="emptyFields">Not all fields are filled in</string>
+
+    <string name="inputMail">Email</string>
+    <string name="inputPassword">Password</string>
+    <string name="inputPasswordConfirm">Repeat password</string>
+
+    <string name="login">Login</string>
+    <string name="loginBtn">Login</string>
+    <string name="loginLink">Already have an account? Login</string>
+
+    <string name="createBtn">Sent</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+    <string name="passwordChange">Change your password</string>
+    <string name="picChange">Change your avatar</string>
+    <string name="logout">Log out</string>
+    <string name="deleteAccount">Delete an account</string>
+    <string name="deletingAccount">Deleting an account</string>
+    <string name="deleteAccConfirm">Do you really want to delete your account?\nThis action cannot be undone.</string>
+
+
+    <string name="register">Registration</string>
+    <string name="registerBtn">Register</string>
+    <string name="registerLink">Don\'t you have an account? Register</string>
+
+    <string name="passwordChangeTitle">Changing the password</string>
+    <string name="passwordChangeSuccess">The password has been successfully changed</string>
+    <string name="wentWrong">Something went wrong</string>
+    <string name="shortPassword">The password is too short</string>
+
+    <string name="create_project">New project</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="newProject">Creating a project</string>
+    <string name="cantCreateProject">It is impossible to create a project</string>
+    <string name="deleteProjectConfirm">Do you really want to delete the project?\nAll tasks within the project will be deleted. This action cannot be undone</string>
+    <string name="deleteProject">Delete a project</string>
+    <string name="changeProject">Update the project</string>
+    <string name="cantUpdateProject">It is impossible to update the project</string>
+
+
+    <string name="deleteTaskConf">Do you really want to delete the task?\nThis action cannot be undone.</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="goToProject">Go to the project</string>
+    <string name="project_list">A list of your projects</string>
+
+    <string name="planing">In the plans</string>
+    <string name="inProccces">In progress</string>
+    <string name="complede">Completed</string>
+    <string name="freze">Frozen</string>
+    <string name="newTask">New task</string>
+    <string name="selectLang">App language</string>
+    <string name="colorTheme">Color theme</string>
+    <string name="darkTheme">Dark theme</string>
+    <string name="lightTheme">Light theme</string>
+    <string name="systemTheme">System theme</string>
+    <string name="eng">English</string>
+    <string name="ru">Русский</string>
+</resources>

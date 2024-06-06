@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="layout">
+        <item name="android:paddingBottom">@dimen/space_xl</item>
+        <item name="android:paddingTop">@dimen/space_xl</item>
+        <item name="android:paddingLeft">@dimen/space_lg</item>
+        <item name="android:paddingRight">@dimen/space_lg</item>
+    </style>
+</resources>

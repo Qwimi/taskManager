@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Планировщик</string>
+
+    <string name="confirmError">Пароли не совпадают</string>
+    <string name="emptyFields">Заполнены не все поля</string>
+
+    <string name="inputMail">Email</string>
+    <string name="inputPassword">Пароль</string>
+    <string name="inputPasswordConfirm">Повтор пароля</string>
+
+    <string name="login">Вход</string>
+    <string name="loginBtn">Войти</string>
+    <string name="loginLink">Уже есть аккаунт? Войти</string>
+
+    <string name="createBtn">Отправить</string>
+    <string name="btnYes">Да</string>
+    <string name="btnNo">Нет</string>
+
+
+
+    <string name="passwordChange">Сменить пароль</string>
+    <string name="picChange">Сменить аватар</string>
+    <string name="logout">Выйти</string>
+    <string name="deleteAccount">Удалить аккаунт</string>
+    <string name="deletingAccount">Удаление аккаунта</string>
+    <string name="deleteAccConfirm">Вы действительно хотите удалить аккаунт?\nЭто действие невозможно отменить.</string>
+
+
+    <string name="passwordChangeTitle">Смена пароля</string>
+    <string name="passwordChangeSuccess">Пароль успешно изменен</string>
+    <string name="wentWrong">Что-то пошло не так</string>
+    <string name="shortPassword">Пароль слишком короткий</string>
+
+
+    <string name="register">Регистрация</string>
+    <string name="registerBtn">Зарегистрироваться</string>
+    <string name="registerLink">Нет аккаунта? Зарегистрируйтесь</string>
+
+    <string name="create_project">Новый проект</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="newProject">Создание проекта</string>
+    <string name="cantCreateProject">Невозможно создать проект</string>
+    <string name="deleteProjectConfirm">Вы действительно хотите удалить проект?\nВсе задачи внутри проекта будут удалены. Это действие невозможно отменить</string>
+    <string name="deleteProject">Удалить проект</string>
+    <string name="changeProject">Обновить проект</string>
+    <string name="cantUpdateProject">Невозможно обновить проект</string>
+    <string name="deleteTaskConf">Вы действительно хотите удалить задачу?\nЭто действие невозможно отменить.</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="goToProject">Перейти к проекту</string>
+    <string name="project_list">Список ваших проектов</string>
+
+    <string name="planing">Планируется</string>
+    <string name="inProccces">В процессе</string>
+    <string name="complede">Закочнено</string>
+    <string name="freze">Отменено</string>
+    <string name="newTask">Новая задача</string>
+    <string name="selectLang">Язык приложения</string>
+    <string name="colorTheme">Тема</string>
+    <string name="darkTheme">Темная</string>
+    <string name="lightTheme">Светлая</string>
+    <string name="systemTheme">Системная</string>
+    <string name="eng">English</string>
+    <string name="ru">Русский</string>
+</resources>

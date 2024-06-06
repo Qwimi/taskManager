@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/bg">
+
+    <com.google.android.material.bottomsheet.BottomSheetDragHandleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/space_lg"
+        android:layout_marginTop="@dimen/space_xl"
+        android:layout_marginRight="@dimen/space_lg"
+        android:layout_marginBottom="@dimen/space_md"
+        android:layout_weight="1"
+        android:text="TextView"
+        android:textSize="@dimen/text_lg" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/projectName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/space_lg"
+        android:layout_marginRight="@dimen/space_lg">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/name"
+            style="@style/input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        style="@style/button.primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/space_lg"
+        android:layout_marginTop="@dimen/space_xl"
+        android:layout_marginRight="@dimen/space_lg"
+        android:layout_marginBottom="@dimen/space_3xl"
+        android:text="@string/createBtn" />
+
+    <TextView
+        android:id="@+id/status_id"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:text="TextView" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:orientation="vertical">-->
+
+<!--    <com.google.android.material.bottomsheet.BottomSheetDragHandleView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"/>-->
+
+<!--    <com.google.android.material.textfield.TextInputLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        style="@style/Widget.Material3.TextInputLayout.OutlinedBox"-->
+<!--        android:hint="Type something..."-->
+<!--        android:id="@+id/textFieldLayout"-->
+<!--        android:layout_margin="10sp">-->
+
+<!--        <com.google.android.material.textfield.TextInputEditText-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:id="@+id/editText"/>-->
+
+<!--    </com.google.android.material.textfield.TextInputLayout>-->
+
+<!--    <com.google.android.material.button.MaterialButton-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="60sp"-->
+<!--        android:layout_margin="10sp"-->
+<!--        android:id="@+id/dismiss"-->
+<!--        android:text="Dismiss"-->
+<!--        android:textSize="16sp"/>-->
+
+<!--</LinearLayout>-->
